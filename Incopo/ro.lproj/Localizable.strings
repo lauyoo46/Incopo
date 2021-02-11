@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Incopo
+
+  Created by Laurentiu Ile on 11.02.2021.
+  
+*/
+
+"Incopo"                                = "Incopo";
+"Email"                                 = "Email";
+"Password"                              = "Parola";
+"Sign In"                               = "Logare";
+"Sign Up"                               = "Inregistrare";
+"Forgot Password?"                      = "Parola uitata?";
+"Login Error"                           = "Eroare la Logare";
+"Registration failed"                   = "Inregistrare esuata";
+"First Name must not contain decimals"  = "Prenumele nu poate contine cifre";
+"Last Name must not contain decimals"   = "Numele nu poate contine cifre";
+"Confirmation field must not be empty"  = "Campul de confirmare a parolei nu poate fi vid";
+"Passwords does not match"              = "Parolele nu se potrivesc";
+"Registration Error"                    = "Eroare la Inregistrare";
+"Registration Message"                  = "Mesaj inregistrare";
+"You registered successfully"           = "Inregistrare efectuata cu succes";
